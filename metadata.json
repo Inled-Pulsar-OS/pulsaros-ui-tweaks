@@ -1,0 +1,17 @@
+{
+  "name": "Pulsar OS UI Tweaks",
+  "description": "Unified system UI customization for Pulsar OS, consolidating desktop controls, notification banner positioning, and GNOME overview improvements.",
+  "uuid": "pulsaros-ui-tweaks@inled.es",
+  "settings-schema": "org.gnome.shell.extensions.pulsaros-ui-tweaks",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/Inled-Pulsar-OS/pulsaros-ui-tweaks",
+  "version": 1
+}
